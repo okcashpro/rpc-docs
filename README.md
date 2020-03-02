@@ -1,2 +1,2 @@
-# rpc-docs
-Documentation for RPC calls
+# Okcash rpc-docs
+Documentation for OK RPC calls
